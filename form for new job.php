@@ -1,6 +1,6 @@
 <?php
 
-    include("Admin Dashboard/security.php");
+    include("security.php");
      
     // Take all values from form database
     if(isset($_POST['submit'])){
